@@ -12,7 +12,7 @@ const projects = {
   portfolio: { password: "akjc3", url: "https://your-portfolio.com" },
   ecog: { password: "akjw1", url: "https://instagram.com" },
    dresscode: { password: "akjw2", url: "https://instagram.com" },
-    flames: { password: "akjw3", url: "https://instagram.com" },
+    flames: { password: "akjw3", url: "https://flamesv2.vercel.app" },
  
 };
 
